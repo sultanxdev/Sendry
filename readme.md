@@ -11,10 +11,7 @@ Just **tell us what you need → we’ll find and buy it for you.**
 **Tagline:** “Tell us what you need → we’ll find and buy it for you.”  
 **Mission:** Help users shop faster by reducing the *search → compare → decide → purchase* cycle from hours to seconds.
 
-**Primary Users**
-- Busy professionals who don’t want to browse dozens of sites.  
-- Students / parents who need curated deals.  
-- SMB buyers seeking procurement help.  
+
 
 ---
 
