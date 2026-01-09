@@ -64,6 +64,7 @@ Sendry provides a lightweight, developer-friendly platform to:
 
 ---
 
+<<<<<<< HEAD
 ## Roadmap
 
 - Email provider integrations (SES, SendGrid, Mailgun)  
@@ -80,6 +81,9 @@ MIT License (to be applied after MVP stabilization).
 All rights reserved during active development.
 
 ---
+=======
+
+>>>>>>> d8e62a3dbde3803787bfeb0bd8a092fed5b84a28
 
 ## Note
 
